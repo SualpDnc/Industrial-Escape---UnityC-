@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 182cd195a28310e479cddf7ff82822f8, type: 3}
+  m_Name: LootLockerConfig
+  m_EditorClassIdentifier: 
+  apiKey: dev_e78455c9ef934154ae17f8fcf9e85903
+  token: e4a781738beea28b3ab1eaa9e808d78fbbe39611
+  adminToken: a53238473fd964a850e652f1d77abaf6565d609d
+  refreshToken: 
+  domainKey: fisnnau4
+  gameID: 0
+  game_version: 1.0.0.0
+  sdk_version: 2.1.5
+  deviceID: dd525951-1aa2-4f46-922a-609b1ba6bb41
+  url: https://api.lootlocker.io/v1
+  adminUrl: https://fisnnau4.api.lootlocker.io/admin
+  playerUrl: https://fisnnau4.api.lootlocker.io/player
+  userUrl: https://fisnnau4.api.lootlocker.io/game
+  baseUrl: https://fisnnau4.api.lootlocker.io
+  clientSideRequestTimeOut: 180
+  currentDebugLevel: 3
+  allowTokenRefresh: 1
